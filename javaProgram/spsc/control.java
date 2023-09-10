@@ -1,0 +1,6 @@
+import pl.*;
+public class control{
+ public static void main ( String args[]){
+Abc ob= new Abc();
+ob.display();
+}}
